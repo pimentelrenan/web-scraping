@@ -1,6 +1,6 @@
 <h1 align="center">Repositório de exemplo de Web Scraping</h1>
 
-<img src="https://img.shields.io/static/v1?label=RP&message=Dev&color=ffffff&style=for-the-badge&logo=Meteor"/>
+<img src="https://img.shields.io/static/v1?label=RP&message=Dev&color=7159c1&style=for-the-badge&logo=Meteor"/>
 
 No mundo atual, onde dados são a base na tomada de decisões, análises de comportamento e são essenciais na previsão não só do tempo, mas também de preços e energia, ter os dados no melhor formato possível, sem outliers e disponível de forma rápida é sinonimo de economia de tempo (e tempo é dinheiro).
 A aquisição de um dado bruto toma uma boa parte do tempo de um analista de dados e essa aquisição pode consumir semanas que poderiam estar sendo utilizadas para desenvolver o produto final com maior qualidade.
