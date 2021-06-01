@@ -12,7 +12,7 @@ Neste exemplo, eu precisava de dados previstos e observados de maré para alimen
 
 Fui então, atrás de um dado público e encontrei o site do CIRAM (https://ciram.epagri.sc.gov.br/litoral-online/), mas que só disponibilizava o dado na própria tela.
 
-![alt text](https://github.com/pimentelrenan/web-scraping/blob/master/figuras/ciram.png)
+![alt text](https://github.com/pimentelrenan/web-scraping/blob/master/figuras/ciram.PNG)
 
 
 
