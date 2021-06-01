@@ -28,3 +28,15 @@ Ao fazer a análise foi possível identificar uma chamada para o endereço: http
 
 ![alt text](https://github.com/pimentelrenan/web-scraping/blob/master/figuras/dadosmare.jpg)
 
+### Abrindo dado
+
+Através da rotina que está no repositório é possível rodar e visualizar os dados que estão na API indicada
+
+```sh
+$ ipython
+$ run get_mare.py
+```
+
+Como resultado:
+
+![alt text](https://github.com/pimentelrenan/web-scraping/blob/master/figuras/python.jpg)
