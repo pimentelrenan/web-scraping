@@ -1,4 +1,6 @@
-# Repositório de exemplo de Web Scraping
+<h1 align="center">Repositório de exemplo de Web Scraping</h1>
+
+<img src="https://img.shields.io/static/v1?label=RP&message=Dev&color=7159c1&style=for-the-badge&logo=Meteor"/>
 
 No mundo atual, onde dados são a base na tomada de decisões, análises de comportamento e são essenciais na previsão não só do tempo, mas também de preços e energia, ter os dados no melhor formato possível, sem outliers e disponível de forma rápida é sinonimo de economia de tempo (e tempo é dinheiro).
 A aquisição de um dado bruto toma uma boa parte do tempo de um analista de dados e essa aquisição pode consumir semanas que poderiam estar sendo utilizadas para desenvolver o produto final com maior qualidade.
@@ -18,10 +20,11 @@ Neste exemplo, eu precisava de dados previstos e observados de maré para alimen
 
 Fui então, atrás de um dado público e encontrei o site do CIRAM (https://ciram.epagri.sc.gov.br/litoral-online/), mas que só disponibilizava o dado na própria tela.
 
-![alt text](https://github.com/pimentelrenan/web-scraping/blob/master/figuras/ciram.PNG)
+![alt text](https://github.com/pimentelrenan/web-scraping/blob/master/figuras/mare.jpg)
 
 Este exemplo é o que chamamos de **Página Dinâmica**, então, a alternativa para acessar dados nesse sistema é utilizar as ferramentas de desenvolvedor presentes nos navegadores para analisar o funcionamento da página e identificar de onde vem a informação desejada. (No Google Chrome/ Firefox basta pressionar a tecla **F12** do teclado e analisar o _console_)
 
-Ao fazer a análise foi possível identificar uma chamada para o endereço: https://ciram.epagri.sc.gov.br/graficos/getDataMare12_2921.php. Este endereço retorna um arquivo .json com os valores de maré que aparecem abaixo. Ou seja, essa API alimenta o gráfico que atualiza em tempo real com as informações que eu precisava.
+Ao fazer a análise foi possível identificar uma chamada para o endereço: https://ciram.epagri.sc.gov.br/graficos/getDataMare6_2963.php. Este endereço retorna um arquivo .json com os valores de maré que aparecem abaixo. Ou seja, essa API alimenta o gráfico que atualiza em tempo real com as informações que eu precisava.
 
-![alt text](https://github.com/pimentelrenan/web-scraping/blob/master/figuras/dadosmare.PNG)
+![alt text](https://github.com/pimentelrenan/web-scraping/blob/master/figuras/dadosmare.jpg)
+
